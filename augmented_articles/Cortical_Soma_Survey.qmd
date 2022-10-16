@@ -11,11 +11,15 @@ format: html
 suppress-bibliography: False
 ---
 
-### To Do
+### Overview
 
-- maybe add fig reference and see if you can collect all fig references
-- insert proper citations
-- change citation layout
+Paper Selection: A recent paper from my PhD work currently available on biorxiv: https://doi.org/10.1101/2022.07.20.499976
+
+Motivation: When discussing how scientists tend to read papers, a common response is that people focus on the figures jumping from one to the next and largely skipping the text. While I have tried this approach I find that I attempt to focus on the figures but always look for what the authors acutally said about the figure. With this in mind, I thought wouldn't it be nice if we could see all the excerpts where this figure has been referenced in the paper, similar to how you can see where a function/variable has been referenced when programming?
+
+Augmentation: Adding an expandable callout window above each figure that allows you to see all the points where the figure was referenced without having to navigate away from the figure itself.
+
+Future changes could include adding the ability for the reader to jump to the exact section of a given excerpt if they want to read more. Adding a scroll effect to the content in the callout box so that the figure is always visible.
 
 ### Abstract
 
